@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-11-09
+
 ### Added
 
 - `greet()` takes a `punctuation` argument: the ending was always `!` → `greet("Hee", ".")` returns `Hello, Hee.`.
@@ -21,5 +23,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - `greet()` and a command-line greeting: `python greet.py Hee` prints `Hello, Hee!`.
 
-[unreleased]: https://github.com/ssambbaam/greet-release/compare/v0.1.0...HEAD
+[unreleased]: https://github.com/ssambbaam/greet-release/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/ssambbaam/greet-release/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/ssambbaam/greet-release/releases/tag/v0.1.0
